@@ -1,1 +1,1 @@
-## Is there a simple algorithm for intelligence?
+# Is there a simple algorithm for intelligence?
